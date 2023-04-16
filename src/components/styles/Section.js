@@ -8,6 +8,7 @@ const Section = styled('section', {
   placeItems: 'center',
   scrollSnapAlign: 'start',
   borderBottom: '1px solid #333333',
+  padding: '7rem',
 });
 
 export default Section;
