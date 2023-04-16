@@ -6,7 +6,7 @@ const Navbar = styled('nav', {
   width: '100%',
   position: 'fixed',
   top: '0',
-  padding: '2rem 6rem',
+  padding: '2rem 7rem',
   textTransform: 'uppercase',
 
   '& ul': {
